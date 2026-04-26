@@ -1,0 +1,18 @@
+# Ansible retry files
+*.retry
+
+# Logs
+*.log
+
+# Vault secrets
+*.vault
+vault_pass.txt
+
+# Local overrides
+group_vars/local.yml
+
+# OS files
+.DS_Store
+Thumbs.db
+```
+
